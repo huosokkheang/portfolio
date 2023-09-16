@@ -1330,7 +1330,7 @@ class ProyectsComponent {
             },
             {
                 imgs: [
-                    'https://user-images.githubusercontent.com/35053923/268446024-78321bac-9f10-411c-9037-d73d523f048f.png',
+                    'https://user-images.githubusercontent.com/35053923/268446023-d69665ac-7be9-43b6-8b4b-3b38428f585b.png',
                     'https://user-images.githubusercontent.com/35053923/268446022-beeaafb8-3729-434c-994d-17e6b3c6014b.png',
                 ],
                 Title: 'Brojum Admin',
