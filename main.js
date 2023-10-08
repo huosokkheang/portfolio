@@ -642,7 +642,7 @@ class BannerComponent {
     }
 }
 BannerComponent.ɵfac = function BannerComponent_Factory(t) { return new (t || BannerComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdirectiveInject"](src_app_services_analytics_analytics_service__WEBPACK_IMPORTED_MODULE_0__.AnalyticsService)); };
-BannerComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: BannerComponent, selectors: [["app-banner"]], decls: 16, vars: 1, consts: [[1, "section", "banner"], [1, "container"], [1, "section-box-banner"], [1, "content"], [1, "banner-title"], [1, "text-capitalize"], [1, "div-btn-banner"], ["href", "huosokkheang@gmail.com", "target", "_black", 1, "main-btn", "text-capitalize", 3, "click"]], template: function BannerComponent_Template(rf, ctx) { if (rf & 1) {
+BannerComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: BannerComponent, selectors: [["app-banner"]], decls: 16, vars: 1, consts: [[1, "section", "banner"], [1, "container"], [1, "section-box-banner"], [1, "content"], [1, "banner-title"], [1, "text-capitalize"], [1, "div-btn-banner"], ["href", "mailto: huosokkheang@gmail.com", "target", "_black", 1, "main-btn", "text-capitalize", 3, "click"]], template: function BannerComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0)(1, "div", 1)(2, "div", 2)(3, "div", 3)(4, "div")(5, "h1");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "Hello! My name is");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]()();
